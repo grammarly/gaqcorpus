@@ -31,7 +31,7 @@ The GAQCorpus contains argument quality annotations of arguments selected from f
 3. [Yelp Open Dataset](https://www.yelp.com/dataset)
 4. [Cornell ChangeMyView Data v1.0](https://chenhaot.com/pages/changemyview.html)
 
-These data are all available free of charge provided you request them from the original sources and agree to the respective license terms. Once you have gained access to the first three corpora listed above, please forward the confirmations to Courtney Napoles (courtney.napoles@grammarly.com), along with your affiliation and a short description of how you will be using the data, and we will provide access to the GAQCorpus. Please let us know if you have any questions.
+These data are all available free of charge provided you request them from the original sources and agree to the respective license terms. Once you have gained access to the first three corpora listed above, please forward the confirmations to Grammarly (peng.wang@grammarly.com), along with your affiliation and a short description of how you will be using the data, and we will provide access to the GAQCorpus. Please let us know if you have any questions.
 
 ---
 *Author contact information:*
